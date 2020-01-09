@@ -1,2 +1,2 @@
 # snustcice.github.io
-github를 이용해 블로그 만들기
+> GitHub Pages를 이용한 블로그 
