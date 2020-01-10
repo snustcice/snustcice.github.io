@@ -16,4 +16,3 @@ layout: default
 
 한글 작성 테스트, 폰트
 English Writing TEST, FONT
-[Link to another page](./another-page.html).
