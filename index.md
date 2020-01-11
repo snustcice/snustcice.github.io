@@ -10,7 +10,7 @@ layout: default
 1. 프로젝트
   A. TCP
     * 2019-2 잔디 심기
-    * 게으른 자들의 프로젝트
+    * 2019-2 게으른 자들의 프로젝트
   B. 전공 과목 수강 중 진행한 프로젝트
     * 2019-1 Introduction to Programming(1)
     > 바코드 스캔 프로그램
@@ -31,19 +31,19 @@ layout: default
     * 2019-2 프로그래밍 입문(2)
     * 2019-2 공학기초설계
   B. 개인 공부
-    1. 프로그래밍 언어
+    1. Programming Language
       * C
       * C++
       * Python
       * Java
-    2. 알고리즘
-    3. 자료구조
-    4. 선형대수
-    5. 운영체제
+    2. Algorithm
+      * Baekjoon Online Judge
+    3. Data Structure
+    4. Operating System
       * Tizen
       * Android
       * Raspbian
-    6. 기타
+    5. Others
       * 정보처리기능사
       * IoT 지식능력검정
 
