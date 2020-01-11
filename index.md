@@ -17,7 +17,6 @@ layout: default
       * 라즈베리 파이를 이용한 자작 NAS 만들기
       * GitHub Pages로 블로그 만들기
       * 갤럭시 워치에서 작동하는 앱 만들기
----
 2. 이론 공부(연습, 예제 등)
     1. 전공 과목
         1. 2019-1 Introduction to Programming(1)
@@ -39,7 +38,6 @@ layout: default
         - Raspbian
       + Others
         - 정보처리기능사
----
 3. 스터디
     1. TCP
         1. 2019-1 Program Solving
