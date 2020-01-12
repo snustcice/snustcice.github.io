@@ -25,6 +25,8 @@ layout: default
         4. 2019-2 공학기초설계
     2. 개인 공부
         1. Programming Language
+          * C++
+          * Python
         2. Algorithm
         3. Data Structure
         4. Operating System
