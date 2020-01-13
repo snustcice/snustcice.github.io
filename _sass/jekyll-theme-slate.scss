@@ -525,7 +525,7 @@ Small Device Styles
 
 .site-category li ul {
     background: rgb(109,109,109);
-    display: none; /* 평상시에는 드랍메뉴가 안보이게 하기 */
+    display: none; /* Not showing drop menu normally */
     height: auto;
     padding: 0px;
     margin: 0px;
@@ -538,7 +538,7 @@ Small Device Styles
 }
 
 .site-category li:hover ul {
-    display: block; /* 마우스 커서 올리면 드랍메뉴 보이게 하기 */
+    display: block; /* Show drop menu when hover mouse cursor */
 }
 
 .site-category li li {
@@ -570,5 +570,4 @@ Small Device Styles
     border: 0px;
     color: #ffffff;
     text-decoration: none;
-}
 }
