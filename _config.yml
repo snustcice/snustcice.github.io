@@ -1,5 +1,17 @@
-﻿title: snustcice's Blog
+﻿# Reference : https://github.com/niels9001/niels9001.github.io/blob/master/_config.yml
+# Blog's title, showing on the top
+title: snustcice's Blog
+
+# Show description below title
 description: 기록을 남기고 정리하기
+
+# Whether show download(.tar, .gz format) button
 show_downloads: false
+
+# Enter Google Analytics web tracking code(e.g. UA-2110908-2) to active tracking
 google_analytics:
+
 theme: jekyll-theme-slate
+
+# test
+is_project_page: false
