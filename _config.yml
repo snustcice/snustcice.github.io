@@ -15,3 +15,10 @@ theme: jekyll-theme-slate
 
 # test
 #is_project_page: false
+
+# https://github.com/snustcice/snustcice.github.io/issues/20
+# It works well without encoding: "utf-8", so commented. If wrong thing happens, remove it
+#encoding: "utf-8"
+
+permalink: pretty
+

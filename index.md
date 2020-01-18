@@ -2,6 +2,12 @@
 layout: default
 ---
 
-# 블로그에 오신 것을 환영합니다.
-#### 프로젝트, 스터디 등 공부 내역을 기록합니다.
-#### 현재 작업 중에 있습니다.
+## Blog Index
+## [About](\docs\about)
+
+## [Category(NOT properly working)](\category)
+
+#### 1. [Dept. of CSE](\category\Dept. of CSE)
+#### 2. [Personal Practice](\category\Personal Practice)
+#### 3. [Personal Project](\category\Personal Project)
+#### 4. [TeamCrazyPerformance](\category\TeamCrazyPerformance)
