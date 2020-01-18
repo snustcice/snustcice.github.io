@@ -20,6 +20,5 @@ theme: jekyll-theme-slate
 # It works well without encoding: "utf-8", so commented. If wrong thing happens, remove it
 #encoding: "utf-8"
 
-#sub category test
 permalink: pretty
-#permalink: /:categories/:year/:month/:day/:title:output_ext
+
