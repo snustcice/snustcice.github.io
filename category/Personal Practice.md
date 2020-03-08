@@ -6,7 +6,7 @@ layout: default
 
 #### Certification
 * [컴퓨터활용능력 1급](\Personal Practice\Certification\Computer Specialist in Spreadsheet & Database Level-1\2020\01\06\CSiSD-test)
-* [정보처리기능사](\Personal Practice\Certification\Craftsman Information Processing\2020\01\06\CIP-test)
+* [정보처리기능사](\Personal Practice\Certification\Craftsman Information Processing\2020\03\08\CIP-subject-1)
 
 #### Git & GitHub
 * [Git & GitHub](\Personal Practice\Git & GitHub\2020\01\06\G&GH-test)
